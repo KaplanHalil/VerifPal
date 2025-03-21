@@ -1,6 +1,6 @@
 
 
-attacker[passive]
+attacker[active]
 
 principal Alice[
 generates a
